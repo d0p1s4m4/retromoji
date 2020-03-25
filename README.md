@@ -8,7 +8,6 @@ Extra emoji:
 |---------------------|-------------------------------------------------|
 | :flag_bzh:          | ![Gwenn ha du](img/flag_gwenn_ha_du.png)        |
 | :flag_euskal:       | ![ikurriña](img/flag_euskal.png)                |
-| :flag_trans:        | ![trans](img/flag_trans.png)                    |
 | :flag_bi:           | ![bi](img/flag_bi.png)                          |
 | :flag_lesbian:      | ![lesbian](img/flag_lesbian.png)                |
 | :flag_non_binary:   | ![non binary](img/flag_non_binary.png)          |
